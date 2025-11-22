@@ -1,7 +1,5 @@
 # Image Steganography – k-bit LSB Method
 
-This project explores multiple image-steganography concepts, with the final implementation using the **k-bit Least Significant Bit (LSB)** method.
-
 A simple LSB-based steganography tool is implemented that hides one image inside another and extracts it back without quality loss. The entire workflow is demonstrated in the Jupyter Notebook (`image processing.ipynb`), including embedding, generating the stego image, and recovering the hidden image with minimal visual distortion.
 
 ---
